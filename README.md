@@ -1,6 +1,7 @@
 Here are the specific analysis points we would like you to focus on:
 
 Products:
+
 -Analyze sales revenue, units sold, and average order value for each product.
 
 -Identify top-selling products or categories based on sales volume.
@@ -8,6 +9,7 @@ Products:
 -Explore any trends or patterns in product performance and suggest strategies for improvement.
 
 Customers:
+
 -Calculate the conversion rate by dividing the number of purchases by the total number of app visitors
 
 -Identify customer demographics, preferences, and behavior based on the available data.
@@ -15,6 +17,7 @@ Customers:
 -Highlight any key insights or patterns that can help us better understand our customers.
 
 Sales Patterns:
+
 -Analyze the sales data to identify any seasonal or periodic trends.
 
 -Determine the days, weeks, or months with the highest sales volume.
