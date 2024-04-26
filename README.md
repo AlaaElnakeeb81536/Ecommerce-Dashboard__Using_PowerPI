@@ -15,6 +15,11 @@ Analyze the sales data to identify any seasonal or periodic trends.
 Determine the days, weeks, or months with the highest sales volume.
 Provide recommendations on how to leverage these patterns for targeted marketing or promotional activities.
 
+![image](https://github.com/AlaaElnakeeb81536/Ecommerce-Dashboard-Using-PowerPI/assets/103367236/c84e206d-1188-491d-b04b-1f0cec750ecb)
+*******************************************************
 ![nh](https://github.com/AlaaElnakeeb81536/Ecommerce-Dashboard-Using-PowerPI/assets/103367236/611bd88b-5300-4622-aae8-023568d0cf4b)
+*************************************************************
+![image](https://github.com/AlaaElnakeeb81536/Ecommerce-Dashboard-Using-PowerPI/assets/103367236/64af82b0-45f0-4ec1-99c3-44d0a4b6ee55)
+
 
 
