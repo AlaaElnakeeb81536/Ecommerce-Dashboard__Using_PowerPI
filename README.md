@@ -14,6 +14,7 @@ Sales Patterns:
 Analyze the sales data to identify any seasonal or periodic trends.
 Determine the days, weeks, or months with the highest sales volume.
 Provide recommendations on how to leverage these patterns for targeted marketing or promotional activities.
-![Uploading image.png…]()
-![Uploading image.png…]()
+
+![nh](https://github.com/AlaaElnakeeb81536/Ecommerce-Dashboard-Using-PowerPI/assets/103367236/611bd88b-5300-4622-aae8-023568d0cf4b)
+
 
